@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer & Android Developer from India</h3>
 
 💫 About Me:
-🔭 I’m currently working on many kinds of Full Stack project<br><br>🌱 I’m currently learning Flutter , Next.js , Typescript<br><br>👯 I’m looking to collaborate on Web Development & App Development<br><br>📫 How to reach me bhattacharyasreejita5@gmail.com
+🔭 I’m currently working on many kinds of Full Stack project<br><br>🌱 I’m currently learning Flutter , Next.js , Typescript<br><br>👯 I’m looking to collaborate on Web Development & App Development<br>
 
 
 ## 🌐 Socials:
