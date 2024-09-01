@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer & Android Developer from India</h3>
 
 # 💫 About Me:
-<br>🔭 I’m currently working on many kinds of Full Stack project<br><br>🌱 I’m currently learning Flutter , Next.js , Typescript<br><br>👯 I’m looking to collaborate on Web Development & App Development
+<br>🔭 I’m currently working on Full Stack project<br><br>🌱 I’m currently learning Flutter , Next.js , Typescript<br><br>👯 I’m looking to collaborate on Web Development & App Development
 
 
 ## 🌐 Socials:
